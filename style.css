@@ -175,51 +175,7 @@ figcaption{
   border: solid 1px var(--primary-color);
   background-color: rgb(229, 232, 238);
 }
-  /*
-.gallery__item--1 {
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row-start: 2;
-  grid-row-end: 2;
-  position: relative;
-  
-  }
-  
-.gallery__item--2 {
-    grid-column-start: 5;
-    grid-column-end: 0;
-    grid-row-start: 0;
-    grid-row-end: 3;
-    position: relative;
-
-    }
-  
-.gallery__item--3 {
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 4;
-  grid-row-end: 5;
-  position: relative;
-  }
-  
-.gallery__item--4 {
-  grid-column-start: 3;
-  grid-column-end: 4;
-  grid-row-start: 3;
-  grid-row-end: 4;
-  position: relative;
-  }
-  
-.gallery__item--5 {
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row-start: 4;
-  grid-row-end: 5;
-  position: relative;
-  }
-*/
-  
-/*About section style*/
+ 
 .vl-border3 {
     border-right: 3px solid #39a6b2;
     height: 100px;
